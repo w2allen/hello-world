@@ -1,2 +1,3 @@
 # hello-world
 This is my test attempt at git-hub
+This is a test attempt at a change in git-hub.  As a record, my dealings with git-hub thusfar have been to create a new repository (by clicking the (+) in the upper right hand corner and to name the repository, make public and then initialize the repository with a readme.  Then click "create repository".  The master is the definitive branch, but we call the new branch the "feature" branch.  To create a new branch, go to the repository - hello world - then click the drop down that says branch master.  Type the branch name.  Select the blue box that says create branch.  The two branches are master and readme-edits.  Now we add our changes to the existing branch.
